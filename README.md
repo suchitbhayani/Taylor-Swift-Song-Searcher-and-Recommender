@@ -1,4 +1,4 @@
-# Taylor Swift Song Searcher and Recommender
+# Taylor Swift Song Recommender and Lyric Searcher
 Using data science to analyze Taylor Swift lyrics
 - Produced visualizations about different aspects of Taylor Swift's music
 - Created an algorithm which recommended the most similar Taylor Swift song from a given song by different artists
