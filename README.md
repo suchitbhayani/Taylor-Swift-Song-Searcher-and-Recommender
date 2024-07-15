@@ -1,6 +1,5 @@
 # Taylor Swift Song Recommender and Lyric Searcher
-Using data science to analyze Taylor Swift lyrics
-- Produced visualizations about different aspects of Taylor Swift's music
-- Created an algorithm which recommended the most similar Taylor Swift song from a given song by different artists
-- Designed a search engine that retrieved all Taylor Swift lyrics containing the queried lyric
-- Assigned keywords to each Taylor Swift song, enhancing content discoverability
+
+Analysis of Taylor Swift's Songs.
+
+Can recommend the most similar Taylor Swift song from a given song by another artist based on a variety of features. Created a search engine which can retrieve all Taylor Swift songs with a queried lyric. Used TF-IDF NLP to assign keywords to each Taylor Swift song.
